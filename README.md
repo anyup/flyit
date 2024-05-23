@@ -1,2 +1,2 @@
 # flyit
-typescript library
+javascript typescript library
